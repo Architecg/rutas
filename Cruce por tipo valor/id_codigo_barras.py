@@ -25,9 +25,9 @@ from typing import Tuple, Set, Dict, List, Optional
 import pandas as pd
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-CSV_OR_XLSX_PATH   = r"C:\Users\juans\Downloads\cd\rta\fase 2\codigo_barras\ACTA 9 - FUID -  HISTORIAS CLINICAS.csv"   # o .xlsx
-TXT_DIFUSION_PATH  = r"C:\Users\juans\Downloads\cd\resources\Difusion.txt"
-TXT_DT_PATH        = r"C:\Users\juans\Downloads\cd\resources\dt.txt"
+CSV_OR_XLSX_PATH   = r""
+TXT_DIFUSION_PATH  = r""
+TXT_DT_PATH        = r""
 
 # Procesar una ACTA a la vez
 ACTA_NUMERO = 9  # <-- ajusta aquí según el acta
@@ -49,7 +49,7 @@ SHOW_NORMALIZATION_SETTINGS = False
 VALID_EXT = ".pdf"
 
 # Carpeta de salida
-OUTPUT_DIR = r"C:\Users\juans\Downloads\cd\answer\fase 2\ACTA 9 - FUID -  HISTORIAS CLINICAS"
+OUTPUT_DIR = r""
 # ──────────────────────────────────────────────────────────────────────────────
 
 # ── Normalización ─────────────────────────────────────────────────────────────
